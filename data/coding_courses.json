@@ -1,0 +1,59 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development Mastery",
+      "slug": "web-development",
+      "description": "Learn frontend and backend development with HTML, CSS, JavaScript, React, Node.js, and databases to build modern full-stack web apps.",
+      "price": 10000,
+      "about": "CodeCraft Academy’s Web Development Mastery program is the ultimate pathway to becoming a professional full-stack engineer. The course builds a strong foundation in web technologies before advancing into modern frameworks and deployment workflows.  What You’ll Learn: Frontend Mastery - HTML, CSS, JavaScript (ES6+), and responsive design principles. Modern Frameworks - Deep dive into React and component-driven UI development. Backend Engineering - Node.js, Express, RESTful APIs, and authentication. Databases - SQL and MongoDB integration with real project implementations. Version Control & Deployment - Git, GitHub, and full-stack deployment on platforms like Vercel or Render.  Key Highlights: Code-along sessions and interactive labs for hands-on practice. End-to-end project development from frontend to backend. Performance optimization, modular architecture, and clean design principles.  Duration & Outcome: 4–5 months of structured learning with guided mentorship. By completion, learners build portfolio-grade full-stack web applications ready for real-world deployment.",
+      "instructor": "Aarav Mehta",
+      "isFeatured": true,
+      "image": "/courses/webdev.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Data Science & AI",
+      "slug": "data-ai",
+      "description": "Master data analysis, machine learning, and AI fundamentals using Python, Pandas, NumPy, and TensorFlow to become job-ready.",
+      "price": 14000,
+      "about": "The Data Science & AI program at CodeCraft Academy blends analytical depth with hands-on implementation. It transforms students into skilled data professionals capable of handling real-world datasets and AI models.  What You’ll Learn: Programming Foundations - Python, NumPy, and Pandas for data manipulation. Visualization & Insights - Matplotlib and Seaborn for data storytelling. Machine Learning - Regression, classification, clustering, and evaluation metrics. Deep Learning - Building neural networks with TensorFlow. Real-World Projects - From predicting outcomes to training custom AI models.  Key Highlights: Project-based learning with capstone AI projects. Simplified math concepts through visual notes and cheat sheets. Exposure to real datasets, model tuning, and pipeline automation.  Duration & Outcome: 5–6 months of guided mentorship. Learners graduate with a strong understanding of ML workflows and a professional portfolio featuring AI-driven projects.",
+      "instructor": "Priya Sharma",
+      "isFeatured": true,
+      "image": "/courses/dsai.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cloud Computing & DevOps",
+      "slug": "cloud-devops",
+      "description": "Get hands-on with AWS, Docker, Kubernetes, CI/CD, and modern DevOps workflows to manage scalable cloud infrastructure.",
+      "price": 12000,
+      "about": "The Cloud Computing & DevOps program delivers deep technical understanding of cloud infrastructure, automation, and scalable systems. It simulates real-world enterprise workflows for practical exposure.  What You’ll Learn: Cloud Fundamentals - AWS architecture, EC2, S3, IAM, and networking basics. Containerization - Docker concepts, image management, and orchestration with Kubernetes. Automation - Infrastructure as Code using tools like Terraform or CloudFormation. CI/CD Pipelines - Automating testing and deployment with Jenkins or GitHub Actions. Monitoring & Scaling - Cloud performance optimization and logging best practices.  Key Highlights: Step-by-step labs replicating real company environments. Scenario-based DevOps projects covering continuous delivery workflows. Hands-on experience with cloud credits and multi-service integration.  Duration & Outcome: 4–6 months with personalized mentorship. By the end, learners can design, deploy, and maintain enterprise-level cloud systems confidently.",
+      "instructor": "Rohit Verma",
+      "isFeatured": true,
+      "image": "/courses/devops.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Essentials",
+      "slug": "cyber-security",
+      "description": "Learn ethical hacking, network defense, and cybersecurity practices to protect systems from real-world cyber threats.",
+      "price": 18000,
+      "about": "Cybersecurity Essentials shapes the mindset of a modern ethical hacker and defender. Students explore both offensive and defensive sides of security through hands-on labs and simulations.  What You’ll Learn: Foundations - Networking, operating systems, and encryption basics. Ethical Hacking - Reconnaissance, scanning, and exploitation techniques. Defensive Security - Firewalls, intrusion detection, and patch management. Penetration Testing - Simulated attacks and vulnerability assessments. Incident Response - Steps to analyze, contain, and recover from breaches.  Key Highlights: Practical training in isolated virtual labs. Red team vs blue team exercises for real-world defense simulation. Live threat analysis with real tools used in cybersecurity operations.  Duration & Outcome: 4 months of guided training. Graduates gain hands-on experience in security testing and system protection strategies, preparing for careers in cybersecurity operations and ethical hacking.",
+      "instructor": "Tanya Bose",
+      "isFeatured": true,
+      "image": "/courses/cyber.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Digital Skills & Productivity",
+      "slug": "digital-skills",
+      "description": "Enhance your digital literacy — from AI tools and communication platforms to personal branding and online productivity.",
+      "price": 20000,
+      "about": "The Digital Skills & Productivity course empowers learners to work smarter, communicate effectively, and build their online identity in the modern digital world.  What You’ll Learn: Digital Literacy - Exploring essential apps, AI tools, and communication platforms. Personal Branding - Building a strong online presence using LinkedIn and portfolio sites. Workflow Optimization - Automating repetitive tasks and mastering time management. Professional Communication - Polishing presentation, email, and collaboration skills. AI for Productivity - Leveraging generative AI tools to improve work efficiency.  Key Highlights: Interactive weekly challenges and guided worksheets. Practical skill-building for both personal and professional growth. Templates and exercises to streamline daily digital routines.  Duration & Outcome: 2–3 months of focused learning. Learners leave with a refined digital toolkit, improved online identity, and boosted career efficiency.",
+      "instructor": "Sneha Kapoor",
+      "isFeatured": true,
+      "image": "/courses/digital.jpg"
+    }
+  ]
+}
